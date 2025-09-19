@@ -11,7 +11,6 @@
 
 </div>
 
-![Banner](https://via.placeholder.com/1200x400/4A90E2/FFFFFF?text=Android+vs+iOS+Comparison)
 
 ## ✨ Особенности
 
